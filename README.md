@@ -1,6 +1,6 @@
-## Biologist in the world of code🌱
+## From genetic code to program code 𓅬
 
-[![Codwears badge](https://www.codewars.com/users/dmitrenokdarya/badges/large)](https://www.codewars.com/users/dmitrenokdarya)
+[![Codwears badge](https://www.codewars.com/users/dmitrenokdarya/badges/micro)](https://www.codewars.com/users/dmitrenokdarya)
 
 <!--
 **dmitrenokdarya/dmitrenokdarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
