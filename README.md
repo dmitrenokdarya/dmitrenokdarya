@@ -1,4 +1,4 @@
-## From genetic code to program code 𓅬
+## From genetic code to the program one 𓅬
 
 [![Codwears badge](https://www.codewars.com/users/dmitrenokdarya/badges/micro)](https://www.codewars.com/users/dmitrenokdarya)
 
